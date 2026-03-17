@@ -10,7 +10,7 @@
 </head>
 <body>
     <a href="index.html" class="back-link">← Zurück zum Shop</a>
-    <h1>HIER TITEL (z.B. Widerrufsbelehrung) EINFÜGEN</h1>
+    <h1>AGB</h1>
     <p>Hier kommt dein kompletter Rechtstext hin...</p>
 </body>
 </html>
