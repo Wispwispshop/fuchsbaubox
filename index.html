@@ -9,8 +9,9 @@
 
   <style>
     @font-face {
-      font-family: 'BoldFont';
-      src: url('https://fonts.cdnfonts.com') format('woff');
+  font-family: 'BoldFont';
+  /* WICHTIG: Die URL muss exakt so aussehen */
+  src: url('https://fonts.cdnfonts.com') format('woff');
     }
 
     body {
@@ -21,12 +22,11 @@
       text-align: center;
     }
 
-    h1 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 900;
-      margin-top: 60px;
-      margin-bottom: 40px;
-      color: black;
+ h1 {
+  font-family: 'BoldFont', Arial, sans-serif;
+  font-size: 60px;
+  color: black;
+  text-transform: uppercase; /* "The Bold Font" sieht in Großbuchstaben am besten aus */
     }
 
     .images {
