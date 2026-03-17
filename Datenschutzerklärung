@@ -10,8 +10,58 @@
 </head>
 <body>
     <a href="index.html" class="back-link">← Zurück zum Shop</a>
-    <h1>HIER TITEL (z.B. Widerrufsbelehrung) EINFÜGEN</h1>
-    <p>Hier kommt dein kompletter Rechtstext hin...</p>
+    <h1>Datenschutzerklärung</h1>
+    <p>1. Verantwortlicher
+Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
+Joshua Reese
+c/o IP-Management #9077 Ludwig-Erhard-Straße 18 20459 Hamburg
+
+E-Mail: wispwispshop@yahoo.com
+Telefon: 17641857862
+
+2. Erhebung und Verarbeitung personenbezogener Daten
+Ich verarbeite personenbezogene Daten ausschließlich im Rahmen der gesetzlichen Vorschriften, insbesondere der DSGVO.
+Personenbezogene Daten werden erhoben, wenn du mir diese im Rahmen einer Bestellung, einer Kontaktaufnahme oder über dein Etsy-Nutzerkonto freiwillig mitteilst.
+
+3. Datenverarbeitung bei Nutzung von Etsy
+Mein Shop wird über die Plattform Etsy betrieben. Etsy verarbeitet personenbezogene Daten (z. B. Name, Adresse, Zahlungsdaten, IP-Adresse) eigenverantwortlich.
+Die Datenverarbeitung durch Etsy erfolgt gemäß der Etsy-Datenschutzerklärung. Etsy stellt mir als Verkäufer nur die Daten zur Verfügung, die zur Vertragsabwicklung erforderlich sind (z. B. Name, Lieferadresse, Bestelldetails).
+
+4. Zweck der Datenverarbeitung
+Die Verarbeitung personenbezogener Daten erfolgt zu folgenden Zwecken:
+* Abwicklung von Bestellungen
+* Kommunikation mit Kundinnen und Kunden
+* Versand der bestellten Waren
+* Erfüllung gesetzlicher Aufbewahrungspflichten
+
+5. Zahlungsabwicklung
+Die Bezahlung erfolgt über die von Etsy angebotenen Zahlungsmethoden (z. B. Kreditkarte, PayPal, Klarna). Die Zahlungsdaten werden direkt von Etsy bzw. den jeweiligen Zahlungsdienstleistern verarbeitet. Ich habe keinen Zugriff auf vollständige Zahlungsdaten.
+
+6. Versanddienstleister
+Zum Versand der bestellten Waren gebe ich deinen Namen und deine Lieferadresse an den Versanddienstleister DHLweiter, soweit dies zur Lieferung erforderlich ist.
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung).
+
+7. Speicherdauer
+Ich speichere personenbezogene Daten nur so lange, wie dies für die Vertragsabwicklung erforderlich ist oder gesetzliche Aufbewahrungspflichten bestehen (z. B. steuer- und handelsrechtliche Pflichten).
+
+8. Rechte der betroffenen Personen
+Du hast jederzeit das Recht auf:
+* Auskunft über deine gespeicherten Daten (Art. 15 DSGVO)
+* Berichtigung unrichtiger Daten (Art. 16 DSGVO)
+* Löschung deiner Daten (Art. 17 DSGVO)
+* Einschränkung der Verarbeitung (Art. 18 DSGVO)
+* Datenübertragbarkeit (Art. 20 DSGVO)
+* Widerspruch gegen die Verarbeitung (Art. 21 DSGVO)
+Zur Ausübung deiner Rechte genügt eine formlose E-Mail an die oben angegebene Adresse.
+
+9. Beschwerderecht
+Du hast das Recht, dich bei einer Datenschutzaufsichtsbehörde zu beschweren, wenn du der Ansicht bist, dass die Verarbeitung deiner personenbezogenen Daten gegen die DSGVO verstößt.
+
+10. Umsatzsteuer-Identifikationsnummer
+Eine Umsatzsteuer-Identifikationsnummer liegt derzeit noch nicht vor. Als Kleinunternehmer im Sinne von § 19 UStG wird keine Umsatzsteuer erhoben und ausgewiesen.
+
+11. Änderungen der Datenschutzerklärung
+Ich behalte mir vor, diese Datenschutzerklärung anzupassen, sofern rechtliche oder technische Änderungen dies erforderlich machen.</p>
 </body>
 </html>
 
