@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Rechtliches - Fuchsbaubox</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 40px; line-height: 1.6; color: #333; }
+        .back-link { display: block; margin-bottom: 20px; color: #FF83FA; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back-link">← Zurück zum Shop</a>
+    <h1>HIER TITEL (z.B. Widerrufsbelehrung) EINFÜGEN</h1>
+    <p>Hier kommt dein kompletter Rechtstext hin...</p>
+</body>
+</html>
 
