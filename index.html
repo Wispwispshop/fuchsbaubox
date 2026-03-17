@@ -4,17 +4,19 @@
   <meta charset="UTF-8">
   <title>Fuchsbaubox</title>
 
-  <!-- The Bold Font (free Alternative Einbindung) -->
+  <!-- Font Awesome für das Instagram-Icon -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com">
+
   <style>
     @font-face {
       font-family: 'BoldFont';
-      src: url('https://fonts.cdnfonts.com/s/16216/THEBOLDFONTFREEVERSION.woff') format('woff');
+      src: url('https://fonts.cdnfonts.com') format('woff');
     }
 
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background-color: #FF83FA; /* schwarz */
+      background-color: #FF83FA; /* Pink */
       color: white;
       text-align: center;
     }
@@ -27,11 +29,11 @@
     }
 
     .images {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap; /* wichtig für Handy */
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
     }
 
     .images img {
@@ -39,8 +41,9 @@
       border-radius: 10px;
     }
 
+    /* HIER WURDE DER ABSTAND VERKLEINERT */
     .buy-button {
-      margin: 600px 0;
+      margin: 40px 0; /* Vorher 600px, jetzt kompakt auf 40px */
     }
 
     button {
@@ -57,6 +60,19 @@
     button:hover {
       opacity: 0.8;
     }
+
+    .instagram-link {
+      display: inline-block;
+      margin-top: 20px;
+      color: black;
+      font-size: 45px;
+      text-decoration: none;
+      transition: transform 0.2s;
+    }
+
+    .instagram-link:hover {
+      transform: scale(1.1);
+    }
   </style>
 </head>
 
@@ -71,31 +87,34 @@
 </div>
 
 <div class="buy-button">
-  <a href="https://paypal.me/DEINNAME">
+  <a href="https://paypal.me" style="text-decoration: none;">
     <button>Kaufen</button>
+  </a>
+  <br>
+  <!-- Instagram Icon -->
+  <a href="https://www.instagram.com" target="_blank" class="instagram-link">
+    <i class="fab fa-instagram"></i>
   </a>
 </div>
 
 <hr style="margin:50px; border:1px solid black;">
 
-<div style="font-size:14px; padding:20px">
-
+<div style="font-size:14px; padding:20px; color: black;">
   <h3>Impressum</h3>
   <p>
-  c/o IP-Management #9077<br>
-  Ludwig-Erhard-Str. 18<br>
-  20459 Hamburg<br>
-  Deutschland<br><br>
-
-  E-Mail: fuchsbaubox@gmail.com
-  Instagram: fuchsbaukollektiv
+    c/o IP-Management #9077<br>
+    Ludwig-Erhard-Str. 18<br>
+    20459 Hamburg<br>
+    Deutschland<br><br>
+    E-Mail: fuchsbaubox@gmail.com<br>
+    Instagram: <a href="https://www.instagram.com" target="_blank" style="color: black; font-weight: bold;">@fuchsbaukollektiv</a>
   </p>
 
   <h3>Datenschutzerklärung</h3>
   <p>
-  Diese Website dient der Präsentation eines Produkts. Beim Klick auf den Kaufen-Button wirst du zu PayPal weitergeleitet. Dabei gelten die Datenschutzbestimmungen von PayPal.
+    Diese Website dient der Präsentation eines Produkts. Beim Klick auf den Kaufen-Button wirst du zu PayPal weitergeleitet. Dabei gelten die Datenschutzbestimmungen von PayPal.
   </p>
-
 </div>
+
 </body>
 </html>
